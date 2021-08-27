@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Tony – @Tony3091209351
+- 👋 Hi, I’m Tony – Tony Wong
 - 👀 I’m interested in playing the piano, cello and the computer (Playing computer is my best hobby)
 - 🌱 I’m currently learning C++ and Python language
 - 📫 You can contact me by email: to.py@outlook.com
-- 📒 My most common blog site is Jianshu (Link's here: https://www.jianshu.com/) and my blog address is .
-
-<!---
-Tony3091209351/Tony3091209351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📒 My most common blog site is Jianshu (Link's here: https://www.jianshu.com/) and my blog address is https://www.jianshu.com/u/309184acd84b.
+- 🍻 Of course, apart from Jianshu, you can find me on these platforms: Sina Weibo (http://weibo.com/u/7482382548) and Zhihu (https://www.zhihu.com/people/huang-li-he-33)
